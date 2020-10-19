@@ -1,0 +1,91 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: calibri, sans-serif;
+	line-height: 1.5;
+	color: #333;
+	background-image: url(https://minecraftonly.ru/uploads/posts/2015-09/1442083198_9.jpg);
+}
+.mega-div {
+	background-color: rgba(255, 255, 255, 0.35);
+}
+.header {
+	text-align: center;
+	font-size: 30px;
+	margin-top: 60px;
+}
+.header span {
+	display: block;
+	font-weight: 300;
+}
+.header strong {
+	font-weight: 500;
+	text-transform: uppercase;
+}
+.section {
+	padding: 30px 10%;
+}
+.main{
+	margin-top: 83px;
+	text-align: center;
+}
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+.form-header {
+	font-size: 20px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+.form {
+	border: 5px solid #444;
+	padding: 20px;
+	text-align: center;
+	margin-left: 30px;
+	height: 309px;
+}
+.form input {
+	width: 300px;
+	padding: 17px;
+	border: 1px solid #999;
+	font-size: 18px;
+	margin-top: 18px;
+	display: block;
+	opacity: 0.45;
+}
+.form button {
+	font-size: 24px;
+	font-family: calibri;
+	font-weight: 900;
+	color: #fff;
+	background-color: #333;
+	border: none; 
+	height: 54px;
+	width: 300px;
+	margin-top: 18px;
+}
+.feature-header {
+	text-align: center;
+	font-family: calibri;
+	font-size: 30px;
+	font-weight: 300;
+	color: #111;
+}
+img {
+	height: 70px;
+	width: 70px;
+}
+.col {
+	display: inline-block;
+	text-align: center;
+	margin: 10px 90px;
+	font-family: calibri;
+	font-weight: 900;
+	color: #111;
+}
+.feature {
+	margin-top: 60px;
+	text-align: center;
+}
